@@ -3,3 +3,12 @@
   - Ubuntu, apple silicon想定
 - Docker環境の作成方法の参照
   - https://qiita.com/tera_shin/items/8a43e904bd15990d3129
+- 実行順
+  - git clone https://github.com/nkitamuraQC/docker-tools.git
+    - host側
+  - bash make_docker.sh
+  - bash some.sh
+  - git clone https://github.com/nkitamuraQC/docker-tools.git
+    - client側
+  - cd docker-tools
+  - bash run.sh
