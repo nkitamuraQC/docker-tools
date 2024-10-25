@@ -8,7 +8,7 @@
     - host側
   - bash create.sh
   - bash enter.sh
-  - bash some.sh
+  - apt update; apt install -y sudo; sudo apt update; sudo apt install -y git
   - git clone https://github.com/nkitamuraQC/docker-tools.git
     - client側
   - cd docker-tools
