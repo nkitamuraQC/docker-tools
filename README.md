@@ -1,15 +1,6 @@
 # docker-tools
 - 自由に作ったDockerコンテナ内で迅速にPython環境を構築するツール
   - Ubuntu, apple silicon想定
-- Links
-  - Docker環境の作成方法の参照
-    - https://qiita.com/tera_shin/items/8a43e904bd15990d3129
-  - VScode
-    - https://qiita.com/xuqu203B/items/5f7cfe5e475f6af79ae9
-  - containerから抜ける方法
-    - Ctrl + P + Q
-  - Dockerイメージとコンテナ削除方法
-    - https://qiita.com/tifa2chan/items/e9aa408244687a63a0ae
 - 実行順
   - git clone https://github.com/nkitamuraQC/docker-tools.git
     - host側
@@ -21,3 +12,12 @@
     - client側
   - cd docker-tools
   - bash run.sh
+- Links
+  - Docker環境の作成方法の参照
+    - https://qiita.com/tera_shin/items/8a43e904bd15990d3129
+  - VScode
+    - https://qiita.com/xuqu203B/items/5f7cfe5e475f6af79ae9
+  - containerから抜ける方法
+    - Ctrl + P + Q
+  - Dockerイメージとコンテナ削除方法
+    - https://qiita.com/tifa2chan/items/e9aa408244687a63a0ae
