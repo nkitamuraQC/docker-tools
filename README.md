@@ -6,7 +6,8 @@
 - 実行順
   - git clone https://github.com/nkitamuraQC/docker-tools.git
     - host側
-  - bash make_docker.sh
+  - bash create.sh
+  - bash enter.sh
   - bash some.sh
   - git clone https://github.com/nkitamuraQC/docker-tools.git
     - client側
