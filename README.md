@@ -9,6 +9,7 @@
 - 実行順
   - git clone https://github.com/nkitamuraQC/docker-tools.git
     - host側
+  - cd docker-tools
   - bash create.sh
   - bash enter.sh
   - apt update; apt install -y sudo; sudo apt update; sudo apt install -y git
