@@ -6,6 +6,8 @@
     - https://qiita.com/tera_shin/items/8a43e904bd15990d3129
   - VScode
     - https://qiita.com/xuqu203B/items/5f7cfe5e475f6af79ae9
+  - containerから抜ける方法
+    - Ctrl + P + Q
 - 実行順
   - git clone https://github.com/nkitamuraQC/docker-tools.git
     - host側
