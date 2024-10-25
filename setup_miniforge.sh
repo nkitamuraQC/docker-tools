@@ -6,8 +6,8 @@ set -e
 # Miniforgeのインストールパス
 INSTALL_DIR=${INSTALL_DIR:-"/opt/conda"}
 
-# MiniforgeのインストーラURL
-MINIFORGE_URL="https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh"
+# ARM64アーキテクチャ用のMiniforgeのインストーラURL
+MINIFORGE_URL="https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-aarch64.sh"
 
 # 必要なパッケージのインストール
 echo "Installing necessary packages..."
