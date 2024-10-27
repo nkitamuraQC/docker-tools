@@ -1,6 +1,6 @@
 # docker-tools
 - 自由に作ったDockerコンテナ内で迅速にPython環境を構築するツール
-  - Ubuntu, apple silicon想定
+  - Ubuntuイメージ, apple silicon想定
 - 実行順
   ```shell
   git clone https://github.com/nkitamuraQC/docker-tools.git
