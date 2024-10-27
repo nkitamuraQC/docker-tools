@@ -2,7 +2,7 @@
 - 自由に作ったDockerコンテナ内で迅速にPython環境を構築するツール
   - Ubuntu, apple silicon想定
 - 実行順
-  """shell
+  ```shell
   git clone https://github.com/nkitamuraQC/docker-tools.git
   cd docker-tools
   bash create.sh
@@ -11,7 +11,7 @@
   git clone https://github.com/nkitamuraQC/docker-tools.git
   cd docker-tools
   bash run.sh
-  """
+  ```
 - Links
   - Docker環境の作成方法の参照
     - https://qiita.com/tera_shin/items/8a43e904bd15990d3129
