@@ -5,12 +5,12 @@
   ```shell
   git clone https://github.com/nkitamuraQC/docker-tools.git
   cd docker-tools
-  bash create.sh
-  bash enter.sh
+  bash create_container.sh
+  bash enter_container.sh
   apt update; apt install -y sudo; sudo apt update; sudo apt install -y git
   git clone https://github.com/nkitamuraQC/docker-tools.git
   cd docker-tools
-  bash run.sh
+  bash make_env.sh
   ```
 - Links
   - Docker環境の作成方法の参照
